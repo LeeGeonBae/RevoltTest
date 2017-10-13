@@ -13,6 +13,9 @@ int main()
 
 	aa.test();
 
+	int b = 1;
+
+
 	system("pause");
 	return 0;
 }
